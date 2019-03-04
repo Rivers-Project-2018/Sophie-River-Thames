@@ -26,7 +26,7 @@ The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-Two provisional graphs have been created. This due to the fact that when finding Q<sub></sub>t for the 33 days plot I realised that 
+Two provisional graphs have been created.
 
 The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot)
 
@@ -36,12 +36,13 @@ The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Winds
 
 ![SophiesAlternativeWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesAlternativeWindsorPlot.png)
 
+The 39 day plot allows me to find Tf easier, however the rating curve and Day vs. Stage seem to be negatively effected by the use of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data).
+
 ### 2.1.3 Code
 
-The programming language is R. 
+The programming language is R. Code for each plot is given in the file directory.
 
 ## 3. Discussion 
 
-(Challenges,Criticisms & Improvements)
 
 ## 4. References
