@@ -30,7 +30,7 @@ Two provisional graphs have been created.
 
 The River Thames 2013-2014 flood: 39 days plot
 
-![Sophie’s Alternative Windsor Plot](Sophie-River-Thames/Sophie’s Alternative Windsor Plot.png)
+![Sophie’s Alternative Windsor Plot.png](https://github.com/Rivers-Project-2018/Sophie-River-Thames/Sophie’s Alternative Windsor Plot.png)
 
 ### 2.1.3 Code
 
