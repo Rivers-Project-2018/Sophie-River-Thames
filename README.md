@@ -28,6 +28,8 @@ The raw data has been received and is currently being analysed.
 
 Two provisional graphs have been created.
 
+![The River Thames 2013-2014 flood: 39 days plot](Sophie-River-Thames/Sophie’s Alternative Windsor Plot.png)
+
 ### 2.1.3 Code
 
 The programming language is R. 
