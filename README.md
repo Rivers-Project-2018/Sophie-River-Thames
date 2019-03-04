@@ -26,7 +26,7 @@ The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-Two provisional graphs have been created. This due to the fact that when finding Q<sub></sub>
+Two provisional graphs have been created. This due to the fact that when finding Q<sub></sub>t for the 33 days plot I realised that 
 
 The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot)
 
