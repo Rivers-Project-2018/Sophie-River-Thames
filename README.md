@@ -26,11 +26,13 @@ The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-Two provisional graphs have been created.
+Two provisional graphs have been created. This due to the fact that when finding Q<sub></sub>
+
+The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot)
 
 ![SophiesProvisionalWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesProvisionalWindsorPlot.png)
 
-The River Thames 2013-2014 flood: 39 days plot
+The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot)
 
 ![SophiesAlternativeWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesAlternativeWindsorPlot.png)
 
