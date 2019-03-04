@@ -28,11 +28,11 @@ The raw data has been received and is currently being analysed.
 
 Two provisional graphs have been created.
 
-![SophiesProvisionalWindsorPlot.png](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesProvisionalWindsorPlot.png)
+![SophiesProvisionalWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesProvisionalWindsorPlot.png)
 
 The River Thames 2013-2014 flood: 39 days plot
 
-![SophiesAlternativeWindsorPlot.png](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesAlternativeWindsorPlot.png)
+![SophiesAlternativeWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/SophiesAlternativeWindsorPlot.png)
 
 ### 2.1.3 Code
 
