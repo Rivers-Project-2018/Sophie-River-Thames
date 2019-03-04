@@ -22,11 +22,11 @@ With regards to the flood data, the Environment Agency has been contacted, but n
 
 ### 2.1.1 Raw Data & Formatting
 
-Still awaiting data.
+The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-No graphs have been produced for the River Thames yet. 
+Two provisional graphs have been created.
 
 ### 2.1.3 Code
 
