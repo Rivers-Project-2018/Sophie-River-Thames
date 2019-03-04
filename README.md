@@ -38,7 +38,7 @@ The 39 day plot allows me to find Tf easier, however the rating curve and Day vs
 
 Updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been upated)
 
-![SophiesUpdate](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie-River-Thames/SophiesUpdate.png)
+![SophiesUpdate](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png)
 
 ### 2.1.3 Code
 
