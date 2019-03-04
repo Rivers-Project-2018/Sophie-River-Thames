@@ -10,8 +10,8 @@ minDW=1 # Setting min and max for Day data
 maxDW=39
 minFlW=30 # Setting min and max for Flow data
 maxFlW=360
-minStW=min(StW) # Setting min and max for Stage data
-maxStW=max(StW)
+minStW=3.3 # Setting min and max for Stage data
+maxStW=5.5
 
 DW_sc=(DW-minDW)/(maxDW-minDW) # Scaling the data sets
 FlW_sc=(FlW-minFlW)/(maxFlW-minFlW)
