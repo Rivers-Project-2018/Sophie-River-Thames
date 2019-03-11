@@ -48,6 +48,8 @@ I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error se
 
 ![Datchet14](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png)
 
+The discovery of the expression function allowed me to code subscript into R.
+
 ### 2.1.3 Code
 
 The programming language is R. 
