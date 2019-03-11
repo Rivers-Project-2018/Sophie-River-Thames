@@ -26,13 +26,13 @@ The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-This section shows the progression to my final graph.
+This section shows the progression to my final graph. The first two graphs 
 
-The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot)
+The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot).
 
 ![SophiesProvisionalWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png)
 
-The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot)
+The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot).
 
 ![SophiesAlternativeWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesAlternativeWindsorPlot.png)
 
@@ -42,7 +42,7 @@ Updated 39 day plot (file listed as Sophies Update; code used is the Alternative
 
 ![SophiesUpdate](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png)
 
-I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code.
+I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
 11th March: 39 day plot
 
