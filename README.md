@@ -36,11 +36,13 @@ The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Winds
 
 ![SophiesAlternativeWindsorPlot](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesAlternativeWindsorPlot.png)
 
-The 39 day plot allows me to find Tf easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I am dyslexic and it was discovered that I had a 'dyslexic moment'. I typed the wrong coefficent into the code.
+The 39 day plot allows me to find Tf easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot.
 
 Updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated)
 
 ![SophiesUpdate](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png)
+
+I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code.
 
 ### 2.1.3 Code
 
