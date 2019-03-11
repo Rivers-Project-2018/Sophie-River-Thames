@@ -26,7 +26,7 @@ The raw data has been received and is currently being analysed.
 
 ### 2.1.2 Graphs
 
-This section showsthe progression to my final graph.
+This section shows the progression to my final graph.
 
 The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot)
 
