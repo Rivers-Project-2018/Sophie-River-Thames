@@ -44,9 +44,13 @@ Updated 39 day plot (file listed as Sophies Update; code used is the Alternative
 
 I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code.
 
+11th March: 39 day plot
+
+![Datchet14](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png)
+
 ### 2.1.3 Code
 
-The programming language is R. Code for each plot is given in the file directory.
+The programming language is R. 
 
 ## 3. Discussion 
 
