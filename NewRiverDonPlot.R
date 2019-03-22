@@ -1,4 +1,4 @@
-# The following is based on the Aire graph presented on [18].
+# The following is based on the Aire graph presented on [18, p.9].
 library(readr)
 RiverDon <- read_csv("Desktop/University_of_Leeds/Project/River_Don_25JunTo29Jun.csv")
 # edited [19][20]
