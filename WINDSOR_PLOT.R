@@ -14,7 +14,10 @@ minStW=3 # Setting min and max for Stage data
 maxStW=6
 
 htW=4.8
-QtW=300 # Looked at given data to find an approx. value; raw data given use of ultrasound [22]
+QtW=300
+# 300 given by [23]
+# Checked by looking at given data to find an approx. value; raw data given use of ultrasound [24]
+
 
 DW_sc=(DW-minDW)/(maxDW-minDW) # Scaling the data sets; [9].
 FlW_sc=(FlW-minFlW)/(maxFlW-minFlW)
@@ -50,7 +53,6 @@ segments(-htW_sc, -1, -htW_sc, QtW_sc, lty=3)
 
 segments(ScVecDW[1], -0.25, ScVecDW[1], QmaxW_sc, lty=3)
 segments(ScVecDW[lSVD], -0.25, ScVecDW[lSVD], QmaxW_sc, lty=3)
-
 segments(-min(StW_sc), min(FlW_sc), -max(StW_sc), max(FlW_sc), lty=2) 
 
 # Adding the double-ended arrow 
@@ -94,6 +96,7 @@ text(0.37, -0.6, expression("h"[t]), cex=1)
 text(0.5, -0.6,labels = "= 4.8 m", cex=1)
 text(0.35, -0.75, expression("Q"[t]), cex=1)
 text(0.545, -0.75, expression("= 300 m" ^ "3"~"/s"), cex=1) 
+# 300 given by [25]
 text(0.33, -0.9, expression("T"[f]), cex=1) 
 text(0.54, -0.9, labels = "= 229.75hrs", cex=1) 
 
