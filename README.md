@@ -70,7 +70,7 @@ The programming language is R.
 5. Kent, T. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, 12 November, 2018.
 
 6. DataCamp. 2015. *R tutorial - Learn How to Create and Name Matrices in R*. 
-[Online]. [Accessed November 2018]. Available from: https://www.youtube.com/watch?v=O7KL17QZNqg
+[Online]. [Accessed November 2018]. Available from: https://www.youtube.com/
 
 7. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
 
