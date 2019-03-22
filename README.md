@@ -57,7 +57,7 @@ The programming language is R.
 ## 3. Discussion 
 
 
-## 4. References in code.
+## 4. References in code used for figures in report.
 
 1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
