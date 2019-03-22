@@ -57,7 +57,7 @@ The programming language is R.
 ## 3. Discussion 
 
 
-## 4. References
+## 4. References in code.
 
 1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
@@ -87,7 +87,7 @@ The programming language is R.
 
 13. Murrell, P. *R Graphics*. [Online]. 2nd ed. Boca Roca: CRC Press, Taylor \& Francis Inc, 2016. [Accessed 30 October 2018]. Available from: https://books.google.co.uk/
 
-14.StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
+14. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
 
 15. AstroStatistics. *Mathematical Annotation in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: http://astrostatistics.psu.edu/su07/R/html/grDevices/html/plotmath.html
 
@@ -99,7 +99,7 @@ The programming language is R.
 
 19. Bokhove,O. *Sheffield Hadfields Stage 15 min Jan 07 to Dec 07.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
 
-20.Bokhove,O. *Sheffield Hadfields Flow 15 min Jan 07 to Dec 07.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+20. Bokhove,O. *Sheffield Hadfields Flow 15 min Jan 07 to Dec 07.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
 
 21. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
