@@ -103,8 +103,12 @@ The programming language is R.
 
 21. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
-22. Winfield, P. *Email to Sophie Kennett*, 14 February, 2019.
+22.
 
-23. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
+23.
 
-24. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
+24. Winfield, P. *Email to Sophie Kennett*, 14 February, 2019.
+
+25. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
+
+26. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
