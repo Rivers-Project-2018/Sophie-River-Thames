@@ -19,7 +19,7 @@ segments(1, 0, 1, 1, lty=1)
 segments(0, 1, 1, 1, lty=1)
 segments(0, 0, 1, 0, lty=1)
 
-# help with setting up legend:[24]
+# help with setting up legend:[26]
 legend(0.51,0.9,cbind("0.28 mitigation, +/- 5% error", "0.51 mitigation, +/- 5% error"), col=cbind("blue","purple"), lty=cbind(1,1), lwd=cbind(2,2), bty="o")
 
 # Notified of text function by [7, p.105]. 
