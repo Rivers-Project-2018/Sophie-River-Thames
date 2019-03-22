@@ -103,9 +103,9 @@ The programming language is R.
 
 21. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
-22.
+22. GaugeMap. *Windsor Park: (Thames)*. [Online]. [no date]. [Accessed 6 November 2018]. Available from: https://www.gaugemap.co.uk/
 
-23.
+23. Environment Agency Thames Region. *Lower Thames Flood Risk Management Strategy*. [Online]. 7th ed. [no place]: Environment Agency, 2010. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
 
 24. Winfield, P. *Email to Sophie Kennett*, 14 February, 2019.
 
