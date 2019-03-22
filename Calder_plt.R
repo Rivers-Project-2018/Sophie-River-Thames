@@ -46,9 +46,9 @@ text(0.834, 0.75,labels="TREES
   Mean FEV:3.75%
 Cost:£5M
   Value:£[1,2]M/1%", cex=0.75, col="green")
-# based on the FEV Calder plot by Onno Bokhove, et al. (2018c). Notified of text function by John Verzani (2014, p.105)
+# based on the FEV Calder plot by [1]. Notified of text function by  [7, pp.104-105]
 arrows(0.7,0.75, 0.56, 0.78, length=0.1)
-# Notified of function by Murrell (2016, p. 79)
+# Notified of function by [13, p. 79]
 text(0.79975, 0.15,labels="TOTAL
   Mean FEV:50.11%
 Cost:£40.38M
