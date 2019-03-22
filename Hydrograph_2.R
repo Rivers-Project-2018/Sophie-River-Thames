@@ -1,7 +1,7 @@
 library(readxl)
 WindsorRoyalGardensDaily <- read_excel("Desktop/University_of_Leeds/Project/Windsor Royal Gardens Daily 1_1_2014-28_2_2014.xlsx", 
                                        sheet = "Sheet1")
-# edited [23]
+# edited [25]
 library(readxl)
 Windsor_2700TH_flow_and_stage_data <- read_excel("Desktop/University_of_Leeds/Project/Windsor 2700TH flow and stage data 2013-14.xlsx", 
                                                  sheet = "Sheet4")
@@ -31,7 +31,7 @@ lines(x=D_sc, y=R_sc, type="l", lty=1, lwd=1, col="black")
 #Looked at RStudio help section
 lines(x=D_sc, y=Fl_sc, type="l", lty=3, lwd=2, col="black")
 
-# help with setting up legend:[24]
+# help with setting up legend:[26]
 # http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way
 legend(11.5/17,1.05,cbind("Rainfall", "Discharge"), col=cbind("black","black"), lty=cbind(1,3), lwd=cbind(1,2), bty="n")
 
