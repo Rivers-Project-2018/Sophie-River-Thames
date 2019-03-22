@@ -29,26 +29,25 @@ abline(h=0)
 # Notified of abline function by [7, p.105]
 abline(h=1) 
 
+# Notified of text function by [7, p.105]
 # The following is as stated on Onno & Tom's poster [1].
 text(0.20025, 0.75,labels="RESERVOIRS
   Mean FEV:40%
 Cost:£30M
   Value:£[0.56,1.13]M/1%", cex=0.75)
-# based on the FEV Calder plot by Onno Bokhove, et al. (2018c)
 text(0.709, 0.45,labels="NFM
   Mean FEV:6.36%
 Cost:£5.38M
   Value:£[0.63,1.27]M/1%", cex=0.75, col="pink")
-# based on the FEV Calder plot by Onno Bokhove, et al. (2018c). Notified of text function by John Verzani (2014, p.105)
+
 arrows(0.6,0.45, 0.42, 0.48, length=0.1)
-# Notified of function by Murrell (2016, p. 79)
+# Notified of function by [13, p. 79]
+
 text(0.834, 0.75,labels="TREES
   Mean FEV:3.75%
 Cost:£5M
   Value:£[1,2]M/1%", cex=0.75, col="green")
-# based on the FEV Calder plot by [1]. Notified of text function by  [7, pp.104-105]
 arrows(0.7,0.75, 0.56, 0.78, length=0.1)
-# Notified of function by [13, p. 79]
 text(0.79975, 0.15,labels="TOTAL
   Mean FEV:50.11%
 Cost:£40.38M
@@ -65,3 +64,4 @@ mtext("66.8", 3, at=0.668, cex=0.625, las=2)
 mtext("100", 3, at=1, cex=0.625)
 
 title("Flood-excess lake: FEV ≈ ((908²)x2)m³ ≈ 1.650Mm³", cex.main=0.875)
+# Notified of title function by [7, p.105].
