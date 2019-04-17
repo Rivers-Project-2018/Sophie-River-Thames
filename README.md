@@ -5,28 +5,28 @@ The repositories purpose is:
 
 ## 1. Introduction
 
-At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
+At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [1]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [1]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
 
-1) Analyse (river-gauge) data of the River Thames;
-2) Calculate the flood-excess volume (FEV);
-3) Assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV)
-4) Present the findings in this repository.
+1) analyse (river-gauge) data of the River Thames;
+2) calculate the flood-excess volume (FEV);
+3) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
+4) present the findings in this repository [2, pp. 5-6].
 
 ## 2. Project Progress
 
-With regards to the flood data, the Environment Agency has been contacted, but no data has been provided yet. The Met Office has also been contacted about the rainfall surrounding the flood and they responded with an Excel sheet of data.
+With regards to the flood data, the Environment Agency has been contacted, and they have provided data on the River Thames flooding that occured in 2014 [3]. The Met Office has also been contacted about the rainfall surrounding the flood and they responded with an Excel sheet of data [4]. The Met Office data cannot be shared as I am not licensed to share. 
 
 ### 2.1 Methodology
 
-
+The Enivronmental Angencies dataset will be used to create a quadrant plot (a graph split into quadrants; Discharge versus Height, Day versus Discharge, Height versus Day, and an empty plot) and some hydrographs. The Met Office data  will only be used for the hydrograph. Typically, a hydrograph allows one to compare rainfall and the height of a river - although, I have also produced a plot that compares the rainfall and discharge rate [5, p.2].
 
 ### 2.1.1 Raw Data & Formatting
 
-The raw data has been received and is currently being analysed.
+The raw data has been received and it has been analysed. It is listed in the repository as Windsor 2700TH flow and stage data 2013-14.xlsx. The date and time data was edited, and formatted numerically.
 
 ### 2.1.2 Graphs
 
-This section shows the progression to my final graph. The first two graphs 
+This section shows the progression to my final graph.
 
 The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot).
 
@@ -57,7 +57,9 @@ The programming language is R.
 ## 3. Discussion 
 
 
-## 4. References in code used for figures in report.
+## 4. References
+
+### 4.1 References in code used for figures in report.
 
 1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
@@ -112,3 +114,15 @@ The programming language is R.
 25. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
 
 26. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
+
+### 4.2 References for README.
+
+1. The University of Leeds. 2018. *2018/19 Undergraduate Module Catalogue: MATH3001 Project in Mathematics* [Online]. [Accessed c. 18 September 2018]. Available from: http://webprod3.leeds.ac.uk/
+
+2. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
+
+3. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
+
+4. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
+
+5. BBC Bitesize. c.2018. *River Management*. [Online]. [Accessed 20 November 2018]. Available from: https://www.bbc.com/
