@@ -3,25 +3,25 @@
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/IMG_4629.JPG" width="650" />
   </p>
   
-> **Figure 1:** Foreground: River Thames; Background: The Houses of Parliament. **Note:** The London section of the Thames will not be discussed in this repository, the Lower Thames region will. This photo is for context.
+> **Figure 1:** Foreground: River Thames; Background: The Houses of Parliament [1]. **Note:** The London section of the Thames will not be discussed in this repository, the Lower Thames region will. This photo is for context.
 
 ## 1. Introduction
 
-At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [1]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [1]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
+At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [2]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [2]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
 
 1) introduce the River Thames, the 2014 Winter Floods and MATH3001;
 2) analyse (river-gauge) data of the River Thames;
 3) calculate the flood-excess volume (FEV);
 4) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
-5) present the findings in this repository [2, pp. 5-6].
+5) present the findings in this repository [3, pp. 5-6].
 
 ## 2. Project Progress
 
-With regards to the flood data, the Environment Agency has been contacted, and they have provided data on the River Thames flooding that occured in 2014 [3]. The Met Office has also been contacted about the rainfall surrounding the flood and they responded with an Excel sheet of data [4]. The Met Office data cannot be shared as I am not licensed to share. 
+With regards to the flood data, the Environment Agency has been contacted, and they have provided data on the River Thames flooding that occured in 2014 [4]. The Met Office has also been contacted about the rainfall surrounding the flood and they responded with an Excel sheet of data [5]. The Met Office data cannot be shared as I am not licensed to share. 
 
 ### 2.1 Methodology
 
-The Enivronmental Angencies dataset will be used to create a quadrant plot (a graph split into quadrants; Discharge versus Height, Day versus Discharge, Height versus Day, and an empty plot) and some hydrographs. The Met Office data  will only be used for the hydrograph. Typically, a hydrograph allows one to compare rainfall and the height of a river - although, I have also produced a plot that compares the rainfall and discharge rate [5, p.2].
+The Enivronmental Angencies dataset will be used to create a quadrant plot (a graph split into quadrants; Discharge versus Height, Day versus Discharge, Height versus Day, and an empty plot) and some hydrographs. The Met Office data  will only be used for the hydrograph. Typically, a hydrograph allows one to compare rainfall and the height of a river - although, I have also produced a plot that compares the rainfall and discharge rate [6, p.2].
 
 ### 2.1.1 Raw Data & Formatting
 
@@ -37,7 +37,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
   
 > **Figure 2:** My final quadrant graph
 
-The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R.
+The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4].
 
 **The progression to the final graph.**
 
@@ -49,7 +49,7 @@ Before attaining the data for Windsor, my group and I recreated graphs first pro
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s adapted River Don plot.png" width="286" />
   </p>
 
-> **Figure 3: (left)** An early River Aire graph recreation [6]. **(centre)** An early River Calder graph recreation [6]. **(right)** An even earlier recreation of the River Don graph [7, p.9]. All graphs in figure 3 were created before I could code subscript. 
+> **Figure 3: (left)** An early River Aire graph recreation [7]. **(centre)** An early River Calder graph recreation [7]. **(right)** An even earlier recreation of the River Don graph [8, p.9]. All graphs in figure 3 were created before I could code subscript. 
 
 <p float="left">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="283" />
@@ -65,7 +65,7 @@ The reason for the using more data/increasing the number of days was to allow me
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
   </p>
 
-> **Figure 5:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
+> **Figure 5:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [9].
 
 #### The Hydrographs
 
@@ -74,7 +74,7 @@ The reason for the using more data/increasing the number of days was to allow me
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin2.png" width="425" /> 
   </p>
 
-> **Figure 6:** each illustrate the River Thames response to heavy rainfall [5, p.2].
+> **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2].
 
 ## 3. The mitigation projects
 
@@ -140,18 +140,20 @@ The reason for the using more data/increasing the number of days was to allow me
 
 ### 5.2 References for README.
 
-1. The University of Leeds. 2018. *2018/19 Undergraduate Module Catalogue: MATH3001 Project in Mathematics* [Online]. [Accessed c. 18 September 2018]. Available from: http://webprod3.leeds.ac.uk/ 
+1. Kennett, S. *Thames*. [Photograph]. 2014.
 
-2. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
+2. The University of Leeds. 2018. *2018/19 Undergraduate Module Catalogue: MATH3001 Project in Mathematics* [Online]. [Accessed c. 18 September 2018]. Available from: http://webprod3.leeds.ac.uk/ 
 
-3. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
+3. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
 
-4. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
+4. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
-5. BBC Bitesize. c.2018. *River Management*. [Online]. [Accessed 20 November 2018]. Available from: https://www.bbc.com/
+5. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
 
-6. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
+6. BBC Bitesize. c.2018. *River Management*. [Online]. [Accessed 20 November 2018]. Available from: https://www.bbc.com/
 
-7. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
+7. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
-8. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
+8. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
+
+9. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
