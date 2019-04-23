@@ -58,6 +58,8 @@ The reason for the using more data/increasing the number of days was to allow me
 
 > **Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
 
+#### The Hydrographs
+
 ## 3. The mitigation projects
 
 ## 4. Discussion 
