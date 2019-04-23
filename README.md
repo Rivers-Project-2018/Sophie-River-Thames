@@ -1,16 +1,14 @@
 # River Thames
-The repositories purpose is:
-1) introduce the River Thames, the 2014 Winter Floods and MATH3001; and,
-2) document progress [1, pp. 5-6].
 
 ## 1. Introduction
 
-At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [2]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [2]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
+At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [1]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [1]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
 
-1) analyse (river-gauge) data of the River Thames;
-2) calculate the flood-excess volume (FEV);
-3) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
-4) present the findings in this repository [1, pp. 5-6].
+1) introduce the River Thames, the 2014 Winter Floods and MATH3001;
+2) analyse (river-gauge) data of the River Thames;
+3) calculate the flood-excess volume (FEV);
+4) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
+5) present the findings in this repository [2, pp. 5-6].
 
 ## 2. Project Progress
 
@@ -137,9 +135,9 @@ The reason for the using more data/increasing the number of days was to allow me
 
 ### 5.2 References for README.
 
-1. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
+1. The University of Leeds. 2018. *2018/19 Undergraduate Module Catalogue: MATH3001 Project in Mathematics* [Online]. [Accessed c. 18 September 2018]. Available from: http://webprod3.leeds.ac.uk/ 
 
-2. The University of Leeds. 2018. *2018/19 Undergraduate Module Catalogue: MATH3001 Project in Mathematics* [Online]. [Accessed c. 18 September 2018]. Available from: http://webprod3.leeds.ac.uk/
+2. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
 
 3. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
