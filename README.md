@@ -32,6 +32,12 @@ The graphs were created with the programming language is R. The code for figure 
 
 Before attaining the data for Windsor, my group and I recreated graphs first produced by our supervisors. Some early drafts of these recreations will be placed in this section along with early drafts of the Windsor graph.
 
+<p float="left">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie's River Aire Plot Recreation.png" width="283" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesCalderRecreation.png" width="283" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s adapted River Don plot.png" width="283" />
+  </p>
+
 The discovery of the expression function allowed me to code subscript into R [6].
 
 <p float="left">
