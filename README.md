@@ -50,7 +50,7 @@ The discovery of the expression function allowed me to code subscript into R [6]
 
 The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
-<p float="centre">
+<p align="center">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
   </p>
 
@@ -77,7 +77,6 @@ The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve
 [Online]. [Accessed November 2018]. Available from: https://www.youtube.com/
 
 7. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
-
 
 8. Kent, T. *Conversation with Sophie Kennett*, 12 March, 2019.
 
