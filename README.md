@@ -51,10 +51,10 @@ The discovery of the expression function allowed me to code subscript into R [6]
 The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
 <p float="centre">
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="850" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
   </p>
 
-**Figure 4:** 39 day plot (11 Mar 2019). 
+**Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve.
 
 ## 3. Discussion 
 
