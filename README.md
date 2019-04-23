@@ -28,6 +28,12 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 #### The Quadrant Plots
 
+<p align="center">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinWin.png" width="650" />
+  </p>
+  
+> **Figure 1:** My final quadrant graph
+
 The graphs were created with the programming language is R. The code for figure 1 is listed in the repository file directory under the title WINDSOR_PLOT.R.
 
 **The progression to the final graph.**
