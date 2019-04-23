@@ -66,6 +66,13 @@ The reason for the using more data/increasing the number of days was to allow me
 
 #### The Hydrographs
 
+<p float="left">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin1.png" width="450" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin2.png" width="450" /> 
+  </p>
+
+> **Figure 5:** each illustrate the River Thames response to heavy rainfall [5, p.2].
+
 ## 3. The mitigation projects
 
 ## 4. Discussion 
