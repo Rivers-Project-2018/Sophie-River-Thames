@@ -50,7 +50,7 @@ Before attaining the data for Windsor, my group and I recreated graphs first pro
 
 **Figure 3: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
 
-The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
+> The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
 <p align="center">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
