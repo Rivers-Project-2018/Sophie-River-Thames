@@ -26,19 +26,21 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 ### 2.1.2 Graphs
 
+#### The Quadrant Plots
+
 The graphs were created with the programming language is R. The code for figure 1 is listed in the repository file directory under the title WINDSOR_PLOT.R.
 
-#### The progression to the final graph.
+##### The progression to the final graph.
 
 Before attaining the data for Windsor, my group and I recreated graphs first produced by our supervisors. Some early drafts of these recreations will be placed in this section along with early drafts of the Windsor graph.
 
 <p float="left">
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s River Aire Plot Recreation.png" width="285" />
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesCalderRecreation.png" width="280" />
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s adapted River Don plot.png" width="285" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s River Aire Plot Recreation.png" width="286" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesCalderRecreation.png" width="278" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s adapted River Don plot.png" width="286" />
   </p>
 
-The discovery of the expression function allowed me to code subscript into R [6].
+**Figure 2: (left)** An early River Aire graph recreation [6]. **(centre)** An early River Calder graph recreation [6]. **(right)** An even earlier recreation of the River Don graph [7, p.9]. All graphs in figure 2 were created before I could code subscript. 
 
 <p float="left">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="283" />
@@ -46,7 +48,7 @@ The discovery of the expression function allowed me to code subscript into R [6]
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png" width="283" />
   </p>
 
-**Figure 3: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** Updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
+**Figure 3: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
 
 The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
@@ -54,7 +56,7 @@ The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
   </p>
 
-**Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve.
+**Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
 
 ## 3. Discussion 
 
@@ -128,4 +130,8 @@ The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve
 
 5. BBC Bitesize. c.2018. *River Management*. [Online]. [Accessed 20 November 2018]. Available from: https://www.bbc.com/
 
-6. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
+6. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
+
+7. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
+
+8. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
