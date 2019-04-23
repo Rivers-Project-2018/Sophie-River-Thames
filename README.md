@@ -26,9 +26,13 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 ### 2.1.2 Graphs
 
-This section shows the progression to my final graph.
+The graphs were created with the programming language is R. The code for figure 1 is listed in the repository file directory under the title WINDSOR_PLOT.R.
 
-The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot).
+#### The progression to the final graph.
+
+Before attaining the data for Windsor, my group and I recreated graphs first produced by our supervisors. Some early drafts of these recreations will be placed in this section along with early drafts of the Windsor graph.
+
+The discovery of the expression function allowed me to code subscript into R [6].
 
 <p float="left">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="283" />
@@ -36,23 +40,14 @@ The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Winds
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png" width="283" />
   </p>
 
-The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot).
+**Figure 2: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** Updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
 
-The 39 day plot allows me to find Tf easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot.
+The 39 day plot allows me to find T<sub>f</sub> easier, however the rating curve and Day vs. Stage seem to be negatively effected by the inclusion of more data points - the only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the following plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
 
-Updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated)
-
-I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the Updated 39 day plot is due to human error; I typed the wrong coefficent into the code by accident.
-
-11th March: 39 day plot
 
 ![Datchet14](https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png)
 
-The discovery of the expression function allowed me to code subscript into R.
-
-### 2.1.3 Code
-
-The programming language is R and it is listed in the repository file directory.
+**Figure 3:** 39 day plot (11 Mar 2019). 
 
 ## 3. Discussion 
 
@@ -126,3 +121,5 @@ The programming language is R and it is listed in the repository file directory.
 4. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
 
 5. BBC Bitesize. c.2018. *River Management*. [Online]. [Accessed 20 November 2018]. Available from: https://www.bbc.com/
+
+6. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
