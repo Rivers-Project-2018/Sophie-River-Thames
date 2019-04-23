@@ -58,12 +58,14 @@ The reason for the using more data/increasing the number of days was to allow me
 
 > **Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
 
-## 3. Discussion 
+## 3. The mitigation projects
+
+## 4. Discussion 
 
 
-## 4. References
+## 5. References
 
-### 4.1 References in code used for figures in report.
+### 5.1 References in code used for figures in report.
 
 1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
@@ -118,7 +120,7 @@ The reason for the using more data/increasing the number of days was to allow me
 
 26. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
 
-### 4.2 References for README.
+### 5.2 References for README.
 
 1. Bokhove, O., and Kent, T. *MATH3001 Project Description: Assessing and communicating mitigation of river floods to policy makers & the general public*. Unpublished, [2018].
 
