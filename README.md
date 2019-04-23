@@ -31,9 +31,9 @@ This section shows the progression to my final graph.
 The River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot).
 
 <p float="left">
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="100" />
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesAlternativeWindsorPlot.png" width="100" /> 
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png" width="100" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="283" />
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesAlternativeWindsorPlot.png" width="283" /> 
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png" width="283" />
   </p>
 
 The River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot).
