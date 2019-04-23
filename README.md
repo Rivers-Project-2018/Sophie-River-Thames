@@ -1,4 +1,9 @@
 # River Thames
+<p align="center">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/IMG_4629.JPG" width="650" />
+  </p>
+  
+> **Figure 1:** Foreground: River Thames; Background: The Houses of Parliament. **Note:** The London section of the Thames will not be discussed in this repository, the Lower Thames region will. This photo is for context.
 
 ## 1. Introduction
 
@@ -30,9 +35,9 @@ The raw data has been received and it has been analysed. It is listed in the rep
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinWin.png" width="650" />
   </p>
   
-> **Figure 1:** My final quadrant graph
+> **Figure 2:** My final quadrant graph
 
-The graphs were created with the programming language is R. The code for figure 1 is listed in the repository file directory under the title WINDSOR_PLOT.R.
+The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R.
 
 **The progression to the final graph.**
 
@@ -44,7 +49,7 @@ Before attaining the data for Windsor, my group and I recreated graphs first pro
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophie’s adapted River Don plot.png" width="286" />
   </p>
 
-> **Figure 2: (left)** An early River Aire graph recreation [6]. **(centre)** An early River Calder graph recreation [6]. **(right)** An even earlier recreation of the River Don graph [7, p.9]. All graphs in figure 2 were created before I could code subscript. 
+> **Figure 3: (left)** An early River Aire graph recreation [6]. **(centre)** An early River Calder graph recreation [6]. **(right)** An even earlier recreation of the River Don graph [7, p.9]. All graphs in figure 3 were created before I could code subscript. 
 
 <p float="left">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesProvisionalWindsorPlot.png" width="283" />
@@ -52,15 +57,15 @@ Before attaining the data for Windsor, my group and I recreated graphs first pro
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SophiesUpdate.png" width="283" />
   </p>
 
-> **Figure 3: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
+> **Figure 4: (left)** the River Thames 2013-2014 flood: 33 days plot (file listed as Provisional Windsor plot); **(centre)** the River Thames 2013-2014 flood: 39 days plot (file listed as Alternative Windsor plot); **(right)** updated 39 day plot (file listed as Sophies Update; code used is the Alternative Windsor plot, which has been updated).
 
-The reason for the using more data/increasing the number of days was to allow me to find T<sub>f</sub> easier. When this change was initiallly computed the rating curve and Day vs. Stage were negatively effected by the inclusion of more data points. The only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the centre plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the centre plot of figure 3 is due to human error; I typed the wrong coefficent into the code by accident. Once the accident was rectified the plot on the right was achieved. The error seen in this graph was also human error - when editing the day data I made a mistake.
+The reason for the using more data/increasing the number of days was to allow me to find T<sub>f</sub> easier. When this change was initiallly computed the rating curve and Day vs. Stage were negatively effected by the inclusion of more data points. The only thing that was changed in my code for each plot was the maximum day value (used to scale the data). I changed the scaling for the discharge data and received the centre plot. I am dyslexic and it was discovered that I had a 'dyslexic moment'. The error seen in the centre plot of figure 4 is due to human error; I typed the wrong coefficent into the code by accident. Once the accident was rectified the plot on the right was achieved. The error seen in this graph was also human error - when editing the day data I made a mistake.
 
 <p align="center">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Datchet14.png" width="650" />
   </p>
 
-> **Figure 4:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
+> **Figure 5:** 39 day plot (11 Mar 2019). The almost complete version - before the move of the rating curve. The discovery of the expression function allowed me to code subscript into R [8].
 
 #### The Hydrographs
 
@@ -69,7 +74,7 @@ The reason for the using more data/increasing the number of days was to allow me
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin2.png" width="425" /> 
   </p>
 
-> **Figure 5:** each illustrate the River Thames response to heavy rainfall [5, p.2].
+> **Figure 6:** each illustrate the River Thames response to heavy rainfall [5, p.2].
 
 ## 3. The mitigation projects
 
