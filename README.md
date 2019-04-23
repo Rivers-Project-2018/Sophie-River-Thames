@@ -30,7 +30,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 The graphs were created with the programming language is R. The code for figure 1 is listed in the repository file directory under the title WINDSOR_PLOT.R.
 
-##### The progression to the final graph.
+**The progression to the final graph.**
 
 Before attaining the data for Windsor, my group and I recreated graphs first produced by our supervisors. Some early drafts of these recreations will be placed in this section along with early drafts of the Windsor graph.
 
