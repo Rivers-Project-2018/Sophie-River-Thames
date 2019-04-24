@@ -78,6 +78,11 @@ The reason for the using more data/increasing the number of days was to allow me
 
 > **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2]. These will be helpful when discussing the opening the flood gates proposed in the River Thames Scheme.
 
+## 3. Mitigation projects
+
+### River Thames Scheme
+
+The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [].
 
 ## 4. Discussion 
 
@@ -158,3 +163,7 @@ The reason for the using more data/increasing the number of days was to allow me
 8. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
 
 9. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
+
+10. Environment Agency Thames Region. *Lower Thames Flood Risk Management Strategy*. [Online]. 7th ed. [no place]: Environment Agency, 2010. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
+
+11.
