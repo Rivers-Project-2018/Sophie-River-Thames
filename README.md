@@ -15,6 +15,8 @@ At the University of Leeds, MATH3001 is a third year Mathematics module that all
 4) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
 5) present the findings in this repository [3, pp. 5-6].
 
+Before you continue to read the following I suggest reading the Introduction to FEV section, https://github.com/Rivers-Project-2018/Group-Project.
+
 ## 2. Project Progress
 
 With regards to the flood data, the Environment Agency has been contacted, and they have provided data on the River Thames flooding that occured in 2014 [4]. The Met Office has also been contacted about the rainfall surrounding the flood and they responded with an Excel sheet of data [5]. The Met Office data cannot be shared as I am not licensed to share. 
@@ -74,9 +76,8 @@ The reason for the using more data/increasing the number of days was to allow me
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin2.png" width="425" /> 
   </p>
 
-> **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2].
+> **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2]. These will be helpful when discussing the opening the flood gates proposed in the River Thames Scheme.
 
-## 3. The mitigation projects
 
 ## 4. Discussion 
 
