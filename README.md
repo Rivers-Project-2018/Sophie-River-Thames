@@ -37,7 +37,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
   
 > **Figure 2:** My final quadrant graph
 
-The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4].
+The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4]. More detail on creating the graphs are given in the following repository: https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis.
 
 **The progression to the final graph.**
 
