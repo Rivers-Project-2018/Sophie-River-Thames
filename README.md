@@ -82,7 +82,14 @@ The reason for the using more data/increasing the number of days was to allow me
 
 ### River Thames Scheme
 
-The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [].
+The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [11, p.16].
+
+<p float="left">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophies mitigation plot  for DatchetWindsor.png" width="650" /> 
+  </p>
+  
+> **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs.
+
 
 ## 4. Discussion 
 
@@ -166,4 +173,4 @@ The scheme is a mitigation project concerning the construction of multiple, gate
 
 10. Environment Agency Thames Region. *Lower Thames Flood Risk Management Strategy*. [Online]. 7th ed. [no place]: Environment Agency, 2010. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
 
-11.
+11. Environment Agency. *Lower Thames Flood Risk Management Strategy*. [Online]. Frimley: Environment Agency, 2009. [Accessed 22 November 2018]. Available from: http://www.mycouncil.surreycc.gov.uk/
