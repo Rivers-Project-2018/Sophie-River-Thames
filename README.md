@@ -103,9 +103,17 @@ The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have
   | Width          | 60m       [10, p.3]  | 60m    [10, p.3]    |
   | Depth          | 0.5m      [11, p.16] | 0.5m   [11, p.16]   |
   
-> **Table 1**
+> **Table 1:** there was a range of 50-70m for the width of the channels, thus 60m was chosen [10, p.3][11, p.16].
+
+If the Environment Agency decided to expand or reduce the width of the channels to 70m or 50m the FEV would change. Figure 8 displays these changes. 
+
+<p align="center">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FEV mitigation_Consideration of multiple widths.png" width="650" /> 
+  </p>
   
-Minor changes in river height and discharge occur 2 days after the major rainfall, however the height and discharge dramatically increase if the rainfall continues. Since the reduction of flood-excess volume is low, I would recommend opening the flood gates as soon as a flood risk arises.
+> **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best outcome is to open all flood channels and for thos channels to have a width of 70m.
+  
+Minor changes in river height and discharge occur 2 days after the major rainfall, however the height and discharge dramatically increase if the rainfall continues. Since the reduction of flood-excess volume is low regardless of the width of the channels, I would recommend opening the flood gates as soon as a flood risk arises.
 
 ### 3.2 River Basin Management Plan
 
@@ -204,3 +212,20 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 14. Gumbrell, K. *Email to Sophie Kennett*, 7 March, 2019.
 
 15. Department of Environment, Food, and Rural Affairs, and Environment Agency. *Part 1: Thames river basin district. River basin management plan*. [Online]. 2nd ed. Bristol: Horizon House, 2015. [Accessed 26 November 2018]. Available from: https://assets.publishing.service.gov.uk/
+
+### 5.3 References in Mit.R code (for README figure 8).
+
+1. DataCamp. 2015. *R tutorial - Learn How to Create and Name Matrices in R*. 
+[Online]. [Accessed November 2018]. Available from: https://www.youtube.com/
+
+2. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
+
+3. Saunders, M, and Chapman, A. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, c. 6 November, 2018.
+
+4. Saunders, M. *Conversation with Sophie Kennett*, c. 27 November, 2018.
+
+5. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
+
+6. StackOverflow. *Plot text containing ”approximately equal to” in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: https://stackoverflow.com/
+
+7. AstroStatistics. *Mathematical Annotation in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: http://astrostatistics.psu.edu/su07/R/html/grDevices/html/plotmath.html
