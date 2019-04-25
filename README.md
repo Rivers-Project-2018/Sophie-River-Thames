@@ -93,7 +93,7 @@ The scheme is a mitigation project concerning the construction of multiple, gate
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophies mitigation plot  for DatchetWindsor.png" width="650" /> 
   </p>
   
-> **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R.
+> **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R. Mitigation values are calculated to 2 decimal places.
 
 The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14]. If you wish to calculate the volumes yourself a table has been placed below with all the information required.
   
@@ -111,7 +111,7 @@ If the Environment Agency decided to expand or reduce the width of the channels 
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FEV mitigation_Consideration of multiple widths.png" width="650" /> 
   </p>
   
-> **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best outcome is to open all flood channels and for thos channels to have a width of 70m.
+> **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best mitigation value, ≈0.6Mm<sup>3</sup>, is viable if all channels are open and of width 70m. This 0.6 mitigation would have reduce the 2014 Datchet flood FEV value to 27.4Mm<sup>3</sup> with the channels in place.
   
 Minor changes in river height and discharge occur 2 days after the major rainfall, however the height and discharge dramatically increase if the rainfall continues. Since the reduction of flood-excess volume is low regardless of the width of the channels, I would recommend opening the flood gates as soon as a flood risk arises.
 
