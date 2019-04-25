@@ -90,18 +90,14 @@ The scheme is a mitigation project concerning the construction of multiple, gate
   
 > **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R.
 
-The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. 
-
-<p align="center">
+The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. To calculate the volumes a table has been placed below with all the information required.
   
-| Volume factors | Datchet Channel | All Channels        |
-| -------------- | --------------- | ------------------- |
-| Length         | ≈ 9334.2m [13]  | 17000m [10, p.3]    |
-| Width          | 60m [10, p.3]   | 60m [10, p.3]       |
-| Depth          | 0.5m [11, p.16] | 0.5m [11, p.16]     |
+                              | Volume factors | Datchet Channel | All Channels        |
+                              | -------------- | --------------- | ------------------- |
+                              | Length         | ≈ 9334.2m [13]  | 17000m [10, p.3]    |
+                              | Width          | 60m [10, p.3]   | 60m [10, p.3]       |
+                              | Depth          | 0.5m [11, p.16] | 0.5m [11, p.16]     |
 
-  </p>
-  
 > **Table 1:** a table containing data used to construct the volume of the Datchet channel and the combined volume of all of the planned channels.
   
 Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14].
