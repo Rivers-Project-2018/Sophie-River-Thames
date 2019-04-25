@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [2]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [2]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
+At the University of Leeds, MATH3001 is a third year Mathematics module that allows students to explore mathematics/applications of mathematics in more depth [2]. Essentially, MATH3001 is a research module that aims to expand a student's skills in team work, research, and report writing [2]. The research that is being conducted in this repository regards the mitigation of flooding in the Lower Thames region, specifically the town of Datchet, and it is supervised by Onno Bokhove and Thomas Kent. In this repository, one shall:
 
 1) introduce the River Thames, the 2014 Winter Floods and MATH3001;
 2) analyse (river-gauge) data of the River Thames;
@@ -82,13 +82,17 @@ The reason for the using more data/increasing the number of days was to allow me
 
 ### River Thames Scheme
 
-The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [11, p.16].
+The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [11, p.16]. 
 
 <p float="left">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/Sophies mitigation plot  for DatchetWindsor.png" width="650" /> 
   </p>
   
-> **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs.
+> **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R.
+
+The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. The 0.51 was created by a similar approach - the volume of flood water held by all three channels and divide that by a million. 
+
+Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [13].
 
 
 ## 4. Discussion 
@@ -174,3 +178,7 @@ The scheme is a mitigation project concerning the construction of multiple, gate
 10. Environment Agency Thames Region. *Lower Thames Flood Risk Management Strategy*. [Online]. 7th ed. [no place]: Environment Agency, 2010. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
 
 11. Environment Agency. *Lower Thames Flood Risk Management Strategy*. [Online]. Frimley: Environment Agency, 2009. [Accessed 22 November 2018]. Available from: http://www.mycouncil.surreycc.gov.uk/
+
+12. Environment Agency. *River Thames Scheme: reducing flood risk from Datchet to Teddington*. [Online]. 2018. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
+
+13. Gumbrell, K. *Email to Sophie Kennett*, 7 March, 2019.
