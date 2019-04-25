@@ -39,7 +39,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
   
 > **Figure 2:** My final quadrant graph
 
-The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4]. More detail on creating the graphs are given in the following repository: https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis.
+The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4]. More detail on creating the graphs is given in the following repository: https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis.
 
 **The progression to the final graph.**
 
@@ -95,7 +95,7 @@ The scheme is a mitigation project concerning the construction of multiple, gate
   
 > **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R. Mitigation values are calculated to 2 decimal places.
 
-The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14]. If you wish to calculate the volumes yourself a table has been placed below with all the information required.
+The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length does not seem to be stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14]. If you wish to calculate the volumes yourself a table has been placed below with all the information required.
   
   | Volume factors |    Datchet Channel   |    All Channels     |
   | -------------- | -------------------- | ------------------- |
