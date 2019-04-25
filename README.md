@@ -215,8 +215,7 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 ### 5.3 References in Mit.R code (for README figure 8).
 
-1. DataCamp. 2015. *R tutorial - Learn How to Create and Name Matrices in R*. 
-[Online]. [Accessed November 2018]. Available from: https://www.youtube.com/
+1. Lillis, D.A. *R Graphic Essentials*. Birmingham: Packt Publishing, 2014.
 
 2. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
 
