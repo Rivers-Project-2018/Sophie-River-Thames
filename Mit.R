@@ -31,7 +31,7 @@ segments(1, 1, 0, 1, lty=1)
 
 # help with setting up legend:[5]
 # http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way
-legend(0.25 , 0.95, cbind("The Datchet Channel", "Total"), col=cbind("blue","purple"), lty=cbind(1,1), lwd=cbind(1,1))
+legend(0.25 , 0.95, cbind("The Datchet Channel", "Total"), col=cbind("purple","blue"), lty=cbind(1,1), lwd=cbind(1,1))
 
 # Adding axis labels; notified of text function by [2, p.105]. 
 # Looked at RStudio help section
