@@ -15,7 +15,7 @@ At the University of Leeds, MATH3001 is a third year Mathematics module that all
 4) assess proposed mitigation projects and plot a graph on the cost-effectiveness of each project (in relation to FEV); and,
 5) present the findings in this repository [3, pp. 5-6].
 
-Before you continue to read the following I suggest reading the Introduction to FEV section, https://github.com/Rivers-Project-2018/Group-Project.
+Before you continue to read the following I suggest reading the Introduction to FEV section of the Group Project repository: https://github.com/Rivers-Project-2018/Group-Project.
 
 ## 2. Project Progress
 
@@ -76,11 +76,16 @@ The reason for the using more data/increasing the number of days was to allow me
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinHydWin2.png" width="425" /> 
   </p>
 
-> **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2]. These will be helpful when discussing the opening the flood gates proposed in the River Thames Scheme.
+> **Figure 6:** each illustrate the River Thames response to heavy rainfall [6, p.2]. These will be helpful when discussing the opening the flood gates proposed in the River Thames Scheme. The code for these graphs are listed as Hydrograph_1.R and Hydrograph_2.R respectively. It seems that the River Thames responds to heavy rainfall within 2-10 days.
 
 ## 3. Mitigation projects
 
-### River Thames Scheme
+There are two planned projects:
+
+1) the River Thames Scheme; and,
+2) the River Basin Management Plan.
+
+### 3.1 River Thames Scheme
 
 The scheme is a mitigation project concerning the construction of multiple, gated flood channels [10, p.3]. The gates remain closed until a threat of flooding arises; additionally, the channels will constantly be 7/8 full until the gates are opened [11, p.16]. 
 
@@ -90,7 +95,7 @@ The scheme is a mitigation project concerning the construction of multiple, gate
   
 > **Figure 7:** my final mitigation plot for Datchet/Windsor; by my calculation, only a small amount of mitigation occurs. £239.1 million from: [10, p.32]. £588 million from: [12]. The code for this plot is given in the file directory under the name WinMit.R.
 
-The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. To calculate the volumes yourself a table has been placed below with all the information required.
+The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have FEV values of 27.72Mm<sup>3</sup> and 27.49Mm<sup>3</sup> respectively with the channels in place. Therefore, the flooding would have been on a slightly smaller scale, but not by much. The 0.28 value was approximated by calculating the volume of flood water taken by the Datchet channel and dividing it by a million. This value is only an approximation as the Dacthet channel's length is not explicitly stated in any report. The 0.51 was created by a similar approach - the volume of flood water held by all planned channels and divide that by a million. Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14]. If you wish to calculate the volumes yourself a table has been placed below with all the information required.
   
   | Volume factors |    Datchet Channel   |    All Channels     |
   | -------------- | -------------------- | ------------------- |
@@ -100,10 +105,15 @@ The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have
   
 > **Table 1**
   
-Despite the low mitigation levels expected from creating the channels, I have been reassured that this project is the best option for the Lower Thames region [14].
+Minor changes in river height and discharge occur 2 days after the major rainfall, however the height and discharge dramatically increase if the rainfall continues. Since the reduction of flood-excess volume is low, I would recommend opening the flood gates as soon as a flood risk arises.
 
+### 3.2 River Basin Management Plan
+
+In contrast to the River Thames Scheme, which aims to mitigate flooding, the plan seems to centre on reducing Datchet's susceptibility to flooding by making the town more water absorbent [10, p.1][15, p.79]. The mitigation levels of this plan could not be calculated due to a lack of information.
 
 ## 4. Discussion 
+
+The 2014 flooding in Datchet was large, as was the flood-excess volume. The River Thames Scheme will help reduce the FEV of future floods, but not by much.
 
 
 ## 5. References
@@ -192,3 +202,5 @@ Despite the low mitigation levels expected from creating the channels, I have be
 13. Google. *Datchet to Egham*. [Online]. [no date]. [Accessed 15 March 2019]. Available from: https://www.google.com/maps/
 
 14. Gumbrell, K. *Email to Sophie Kennett*, 7 March, 2019.
+
+15. Department of Environment, Food, and Rural Affairs, and Environment Agency. *Part 1: Thames river basin district. River basin management plan*. [Online]. 2nd ed. Bristol: Horizon House, 2015. [Accessed 26 November 2018]. Available from: https://assets.publishing.service.gov.uk/
