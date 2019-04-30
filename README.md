@@ -114,7 +114,7 @@ If the Environment Agency decided to expand or reduce the width of the channels 
 > **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best mitigation value, ≈0.6Mm<sup>3</sup>, is viable if all channels are open and of width 70m. This 0.6 mitigation would have reduce the 2014 Datchet flood FEV value to 27.4Mm<sup>3</sup> with the channels in place.
 
 <p align="center">
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/70mWideMitLake.png" width="650" /> 
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/70mWideMitLake.png" width="550" /> 
   </p>
   
 > **Figure 9:** The cost-effectiveness of a 70 metre wide channel. The code is listed under 70mMitLake.R.
