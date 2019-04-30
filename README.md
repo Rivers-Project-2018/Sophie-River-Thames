@@ -112,6 +112,12 @@ If the Environment Agency decided to expand or reduce the width of the channels 
   </p>
   
 > **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best mitigation value, ≈0.6Mm<sup>3</sup>, is viable if all channels are open and of width 70m. This 0.6 mitigation would have reduce the 2014 Datchet flood FEV value to 27.4Mm<sup>3</sup> with the channels in place.
+
+<p align="center">
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/70mWideMitLake.png" width="650" /> 
+  </p>
+  
+> **Figure 9:** The cost-effectiveness of a 70 metre wide channel. The code is listed under 70mMitLake.R.
   
 Minor changes in river height and discharge occur 2 days after the major rainfall, however the height and discharge dramatically increase if the rainfall continues. Since the reduction of flood-excess volume is low regardless of the width of the channels, I would recommend opening the flood gates as soon as a flood risk arises.
 
@@ -213,7 +219,7 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 15. Department of Environment, Food, and Rural Affairs, and Environment Agency. *Part 1: Thames river basin district. River basin management plan*. [Online]. 2nd ed. Bristol: Horizon House, 2015. [Accessed 26 November 2018]. Available from: https://assets.publishing.service.gov.uk/
 
-### 5.3 References in Mit.R code (for README figure 8).
+### 5.3 References in Mit.R code and 70mMitLake.R (for README figure 8 and 9).
 
 1. Lillis, D.A. *R Graphic Essentials*. Birmingham: Packt Publishing, 2014.
 
