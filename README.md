@@ -31,7 +31,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 ### 2.1.2 Graphs
 
-#### The Quadrant Plots
+### The Quadrant Plots
 **The Finalised Quadrant Plot**
 <p align="center">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinWin.png" width="650" />
@@ -41,7 +41,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
 
 The graphs were created with the programming language is R. The code for figure 2 is listed in the repository file directory under the title WINDSOR_PLOT.R [4]. More detail on creating the graphs is given in the following repository: https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis.
 
-**The progression to the final graph.**
+### The progression to the final graph
 
 Before attaining the data for Windsor, my group and I recreated graphs first produced by our supervisors. Some early drafts of these recreations will be placed in this section along with early drafts of the Windsor graph.
 
