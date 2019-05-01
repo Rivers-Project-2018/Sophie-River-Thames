@@ -32,7 +32,7 @@ The raw data has been received and it has been analysed. It is listed in the rep
 ### 2.1.2 Graphs
 
 #### The Quadrant Plots
-
+**The Finalised Quadrant Plot**
 <p align="center">
   <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FinWin.png" width="650" />
   </p>
