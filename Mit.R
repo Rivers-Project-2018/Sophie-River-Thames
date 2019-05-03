@@ -6,8 +6,8 @@ wid=cbind(0, 1/2, 1)
 plot(0, 0, axes=F, xlim=cbind(-0.1,1.1), ylim=cbind(-0.1,1.2), type="l", xlab="", ylab="", main="FEV mitigation: consideration of mulitple widths") 
 # creating an empty graph [2, p.104-5][3]
 
-lines(x=wid, y=sev, type="b", lty=1, lwd=1, col="blue") # [2, p.104-5]
-lines(x=wid, y=nin, type="b", lty=1, lwd=1, col="purple")
+lines(x=wid, y=sev, type="b", lty=1, lwd=1, col="purple") # [2, p.104-5]
+lines(x=wid, y=nin, type="b", lty=1, lwd=1, col="blue")
 
 segments(0, 0, 0, 1, lty=1)
 # Notified of segments function by fellow project member [4]. 
@@ -18,7 +18,7 @@ segments(1, 1, 0, 1, lty=1)
 
 # help with setting up legend:[5]
 # http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way
-legend(0.25 , 0.95, cbind("The Datchet Channel", "Total"), col=cbind("purple","blue"), lty=cbind(1,1), lwd=cbind(1,1))
+legend(0.25 , 0.95, cbind("Total","The Datchet Channel"), col=cbind("purple","blue"), lty=cbind(1,1), lwd=cbind(1,1))
 
 # Adding axis labels; notified of text function by [2, p.105]. 
 # Looked at RStudio help section
