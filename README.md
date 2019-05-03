@@ -108,7 +108,7 @@ The 0.28 and 0.51 mitigation levels imply that the 2014 Datchet flood would have
 If the Environment Agency decided to expand or reduce the width of the channels to 70m or 50m the FEV would change. Figure 8 displays these changes. 
 
 <p align="center">
-  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/FEV mitigation_Consideration of multiple widths.png" width="650" /> 
+  <img src="https://github.com/Rivers-Project-2018/Sophie-River-Thames/blob/master/SKMWMit.png" width="650" /> 
   </p>
   
 > **Figure 8:** the code for this graph is Mit.R and the code has references listed in 5.3. The best mitigation value, ≈0.6Mm<sup>3</sup>, is viable if all channels are open and of width 70m. This 0.6 mitigation would have reduce the 2014 Datchet flood FEV value to 27.4Mm<sup>3</sup> with the channels in place.
