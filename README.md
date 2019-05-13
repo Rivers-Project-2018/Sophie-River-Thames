@@ -142,20 +142,20 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 4. Environment Agency. *Rating Curves.xlsx*. Unpublished, [no date].
 
-5. Kent, T. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, 12 November, 2018.
+5. Kent, T. *Conversation with S. Kennett, A. Chapman, J. Willis, M. Saunders, and A. Feilden*, 12 November, 2018.
 
 6. DataCamp. 2015. *R tutorial - Learn How to Create and Name Matrices in R*. 
 [Online]. [Accessed November 2018]. Available from: https://www.youtube.com/
 
 7. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
 
-8. Kent, T. *Conversation with Sophie Kennett*, 12 March, 2019.
+8. Kent, T. *Conversation with S. Kennett*, 12 March, 2019.
 
-9. Kent, T. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, 12 October, 2018.
+9. Kent, T. *Conversation with S. Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, 12 October, 2018.
 
-10. Saunders, M, and Chapman, A. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, c. 6 November, 2018.
+10. Saunders, M, and Chapman, A. *Conversation with S. Kennett, A. Chapman, J. Willis, M. Saunders, and A. Feilden*, c. 6 November, 2018.
 
-11. Saunders, M. *Conversation with Sophie Kennett*, c. 27 November, 2018.
+11. Saunders, M. *Conversation with S. Kennett*, c. 27 November, 2018.
 
 12. Lillis, D.A. *R Graphic Essentials*. Birmingham: Packt Publishing, 2014.
 
@@ -181,7 +181,7 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 23. Environment Agency Thames Region. *Lower Thames Flood Risk Management Strategy*. [Online]. 7th ed. [no place]: Environment Agency, 2010. [Accessed 6 November 2018]. Available from: http://www.gov.uk/
 
-24. Winfield, P. *Email to Sophie Kennett*, 14 February, 2019.
+24. Winfield, P. *Email to S. Kennett*, 14 February, 2019.
 
 25. Met Office. *Windsor Royal Gardens Daily 1 1 2014-28 2 2014*. Unpublished, [no date].
 
@@ -215,7 +215,7 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 13. Google. *Datchet to Egham*. [Online]. [no date]. [Accessed 15 March 2019]. Available from: https://www.google.com/maps/
 
-14. Gumbrell, K. *Email to Sophie Kennett*, 7 March, 2019.
+14. Gumbrell, K. *Email to S. Kennett*, 7 March, 2019.
 
 15. Department of Environment, Food, and Rural Affairs, and Environment Agency. *Part 1: Thames river basin district. River basin management plan*. [Online]. 2nd ed. Bristol: Horizon House, 2015. [Accessed 26 November 2018]. Available from: https://assets.publishing.service.gov.uk/
 
@@ -225,9 +225,9 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 2. Verzani, J. *Using R for introductory Statistics*. 2nd ed. Boca Raton: CRC Press, Taylor \& Francis Group, 2014.
 
-3. Saunders, M, and Chapman, A. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, c. 6 November, 2018.
+3. Saunders, M, and Chapman, A. *Conversation with S. Kennett, A. Chapman, J. Willis, M. Saunders, and A. Feilden*, c. 6 November, 2018.
 
-4. Saunders, M. *Conversation with Sophie Kennett*, c. 27 November, 2018.
+4. Saunders, M. *Conversation with S. Kennett*, c. 27 November, 2018.
 
 5. Statistical tools for high-throughput data analysis. *Add legends to plots in R software : the easiest way!* [Online]. [no date]. [Accessed 1 March 2019]. Available from:http://www.sthda.com/
 
