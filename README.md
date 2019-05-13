@@ -136,11 +136,11 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 1. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. *Using ‘flood-excess volume’ to assess and communicate flood-mitigation schemes*. [Online poster]. 2018. [Accessed 4 November 2018]. Available from: http://www1.maths.leeds.ac.uk/
 
-2. Bokhove,O. *Armley F1707 Flow 15min May 15 to Mar 16.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+2. Environment Agency. *Armley F1707 Flow 15min May 15 to Mar 16.csv*. Unpublished, [no date].
 
-3. Bokhove,O. *Armley F1707 Stage 15min May 15 to Mar 16.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+3. Environment Agency. *Armley F1707 Stage 15min May 15 to Mar 16.csv*. Unpublished, [no date].
 
-4. Bokhove,O. *Rating Curves.xlsx*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+4. Environment Agency. *Rating Curves.xlsx*. Unpublished, [no date].
 
 5. Kent, T. *Conversation with Sophie Kennett, Abbey Chapman, Jack Willis, Mary Saunders, and Antonia Feilden*, 12 November, 2018.
 
@@ -165,15 +165,15 @@ The 2014 flooding in Datchet was large, as was the flood-excess volume. The Rive
 
 15. AstroStatistics. *Mathematical Annotation in R*. [Online]. [no date]. [Accessed 9 March 2019]. Available from: http://astrostatistics.psu.edu/su07/R/html/grDevices/html/plotmath.html
 
-16. Bokhove,O. *Mytholmroyd F1204 Flow 15 min May 15 to Mar 16.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+16. Environment Agency. *Mytholmroyd F1204 Flow 15 min May 15 to Mar 16.csv*. Unpublished, [no date].
 
-17. Bokhove,O. *Mytholmroyd F1204 Stage 15 min May 15 to Mar 16.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+17. Environment Agency. *Mytholmroyd F1204 Stage 15 min May 15 to Mar 16.csv*. Unpublished, [no date].
 
 18. Bokhove, O., Kelmanson, M.A., Kent, T., Piton, G. and Tacnet, J.M. [Pre- print]. Communicating nature-based solutions using flood-excess volume, for three extreme UK and French river floods. *The Royal Society Publishing*. 2018.
 
-19. Bokhove,O. *Sheffield Hadfields Stage 15 min Jan 07 to Dec 07.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+19. Environment Agency. *Sheffield Hadfields Stage 15 min Jan 07 to Dec 07.csv*. Unpublished, [no date].
 
-20. Bokhove,O. *Sheffield Hadfields Flow 15 min Jan 07 to Dec 07.csv*. [Online]. 2018. [Accessed 8 October 2018]. Available from: https://github.com/obokhove/RiverAireDonCalder
+20. Environment Agency. *Sheffield Hadfields Flow 15 min Jan 07 to Dec 07.csv*. Unpublished, [no date].
 
 21. Environment Agency. *Windsor 2700TH flow and stage data 2013-14*. Unpublished, [no date].
 
